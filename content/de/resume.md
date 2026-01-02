@@ -4,8 +4,8 @@
   - TU Graz, Österreich
 
 ## Arbeitserfahrung
-- **Optiker** (seit 2021)
-  - Fielmann (Vollzeit, 2021-2024)
+- **Optiker** (seit 2020)
+  - Fielmann (Vollzeit, 2020-2024)
   - Augenarztordination (Teilzeit, seit 2024)
   - Refraktion, Patientenbetreuung, Bürotätigkeiten
 

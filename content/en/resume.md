@@ -4,8 +4,8 @@
   - TU Graz, Austria
 
 ## Work Experience
-- **Optician** (since 2021) 
-  - Fielmann (2021-2024)
+- **Optician** (since 2020) 
+  - Fielmann (2020-2024)
   - Eye doctor’s office (since 2024)  
   - Refraction, Patientcare, Office work
 

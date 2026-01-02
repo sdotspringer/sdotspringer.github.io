@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>S. Springer - Portfolio</title>
+    <meta
+      name="description"
+      content="Portfolio and résumé of sdotspringer."
+    />
+
+    <link rel="stylesheet" href="./assets/style.css" />
+  </head>
+
+  <body>
+    <header class="topbar">
+        <div class="name">Sandro</div>
+
+  <nav class="navigation">
+    <a href="#about" data-route="about" data-i18n="nav.about" class="navigation">
+      About
+    </a>
+    <span class="sep">|</span>
+    <a href="#resume" data-route="resume" data-i18n="nav.resume" class="navigation">
+      Résumé
+    </a>
+  </nav>
+
+      <div class="controls">
+        <button class="btn" id="languageBtn" type="button" aria-label="Switch language">
+          EN
+        </button>
+        <button class="btn" id="themeBtn" type="button" aria-label="Toggle theme">
+          ☾
+        </button>
+      </div>
+    </header>
+
+    <main class="layout">
+<section class="card">
+  <div class="hero">
+    <img
+      src="./assets/img/profile.jpg"
+      alt="Portrait of Sandro"
+      class="avatar"
+      width="300"
+      height="354"
+    />
+
+    <div class="hero-text">
+      <h1 id="pageTitle" class="title">About</h1>
+      <article id="content" class="content" aria-live="polite"></article>
+    </div>
+  </div>
+</section>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="./assets/main.js"></script>
+  </body>
+</html>

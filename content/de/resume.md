@@ -14,3 +14,7 @@
   - gRPC als Brücke zwischen Middleware und Backend
   - Spring Boot zur Verarbeitung von HTTP-Anfragen (REST)
   - JTS für Geometrieobjekte
+- **Bewegungsgesteuere Maus mit RP2040** (C)
+  - USB-HID-Implementierung mit TinyUSB (Device & HID Report descriptor)
+  - I²C zum Auslesen von Gyroskop und Accelerometer
+  - ADC zum Ablesen von Druckknöpfen

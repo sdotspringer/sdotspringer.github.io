@@ -14,3 +14,7 @@
   - gRPC for communication between middleware and backend
   - Spring Boot for processing HTTP requests
   - JTS for geometry objects
+- **Motion-controlled mouse with RP2040** (C)
+  - TinyUSB with USB device descriptor
+  - I²C to read gyroscope and accelerometer
+  - ADC to read push buttons
